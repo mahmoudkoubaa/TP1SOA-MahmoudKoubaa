@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cinema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="cinema.xsd">
+
+    <film id="1">
+        <titre>Inception</titre>
+        <realisateur>Christopher Nolan</realisateur>
+        <annee>2010</annee>
+        <genre>Science-Fiction</genre>
+        <duree>148</duree>
+        <acteurs>
+            <acteur>Leonardo DiCaprio</acteur>
+            <acteur>Marion Cotillard</acteur>
+        </acteurs>
+    </film>
+
+    <film id="2">
+        <titre>La La Land</titre>
+        <realisateur>Damien Chazelle</realisateur>
+        <annee>2016</annee>
+        <genre>Musical</genre>
+        <duree>128</duree>
+        <acteurs>
+            <acteur>Ryan Gosling</acteur>
+            <acteur>Emma Stone</acteur>
+        </acteurs>
+    </film>
+
+    <film id="3">
+        <titre>Interstellar</titre>
+        <realisateur>Christopher Nolan</realisateur>
+        <annee>2014</annee>
+        <genre>Science-Fiction</genre>
+        <duree>169</duree>
+        <acteurs>
+            <acteur>Matthew McConaughey</acteur>
+            <acteur>Anne Hathaway</acteur>
+        </acteurs>
+    </film>
+
+</cinema>
